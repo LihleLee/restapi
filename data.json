@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Item 1",
+    "description": "This is item 1"
+  },
+  {
+    "id": 2,
+    "name": "Item 2",
+    "description": "This is item 2"
+  },
+  {
+    "name": "Lihle",
+    "occupation": " IT intern",
+    "id": 3
+  },
+  {
+    "name": "Omphile",
+    "occupation": "Tech Champ",
+    "id": 4
+  }
+]
